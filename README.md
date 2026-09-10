@@ -25,3 +25,4 @@ Right-click `testSuites/testng.xml` -> **Run As** -> **TestNG Suite**
 ### Run via Maven CLI:
 ```bash
 mvn clean test
+## Test Suites Execution Notes 
